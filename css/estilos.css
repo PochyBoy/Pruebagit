@@ -1,5 +1,14 @@
 body
 {
+    background-color: bisque;
     text-align: center;
     font-family: 'Arial';
+}
+
+#container {
+    text-align: center;
+    width: 70%;
+    border: 1px solid black;
+    margin: 0 auto;
+    padding: 1cm;
 }
